@@ -1,0 +1,432 @@
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\libman.json
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.exe
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.deps.json
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.runtimeconfig.json
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.runtimeconfig.dev.json
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.pdb
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.Views.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.Views.pdb
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.csproj.AssemblyReference.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.AssemblyInfoInputs.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.AssemblyInfo.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.csproj.CoreCompileInputs.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.MvcApplicationPartsAssemblyInfo.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorAssemblyInfo.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorAssemblyInfo.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.sourcelink.json
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.TagHelpers.input.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.TagHelpers.output.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorCoreGenerate.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Create.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Delete.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Details.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Edit.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Index.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Create.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Delete.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Details.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Edit.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Index.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Create.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Delete.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Details.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Edit.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Index.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Create.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Delete.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Details.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Edit.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Index.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Create.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Delete.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Details.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Edit.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Index.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Create.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Delete.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Details.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Edit.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Index.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorTargetAssemblyInfo.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorTargetAssemblyInfo.cs
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.Views.pdb
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\RegjistriCivil.StaticWebAssets.Manifest.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\RegjistriCivil.StaticWebAssets.Pack.cache
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.RegjistriCivil.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.RegjistriCivil.props
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.RegjistriCivil.props
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.RegjistriCivil.props
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Regjistr.367EEEF9.Up2Date
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.dll
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.pdb
+D:\Sample Projects\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.genruntimeconfig.cache
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\libman.json
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.exe
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.deps.json
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.runtimeconfig.json
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.runtimeconfig.dev.json
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.pdb
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.Views.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\RegjistriCivil.Views.pdb
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Regjistri-Civil\RegjistriCivil\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.csproj.AssemblyReference.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.AssemblyInfoInputs.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.AssemblyInfo.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.csproj.CoreCompileInputs.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.MvcApplicationPartsAssemblyInfo.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorAssemblyInfo.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorAssemblyInfo.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.sourcelink.json
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.TagHelpers.input.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.TagHelpers.output.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorCoreGenerate.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Create.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Delete.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Details.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Edit.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\BirthCertificates\Index.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Create.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Delete.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Details.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Edit.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\DeathCertificates\Index.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Create.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Delete.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Details.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Edit.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\IdCards\Index.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Create.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Delete.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Details.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Edit.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\MarriageCertificates\Index.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Create.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Delete.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Details.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Edit.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Passports\Index.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Create.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Delete.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Details.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Edit.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\PersonStatistics\Index.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorTargetAssemblyInfo.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.RazorTargetAssemblyInfo.cs
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.Views.pdb
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\RegjistriCivil.StaticWebAssets.Manifest.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\RegjistriCivil.StaticWebAssets.Pack.cache
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.RegjistriCivil.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.RegjistriCivil.props
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.RegjistriCivil.props
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.RegjistriCivil.props
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\Regjistr.367EEEF9.Up2Date
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.dll
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.pdb
+D:\Regjistri-Civil\RegjistriCivil\obj\Debug\netcoreapp3.1\RegjistriCivil.genruntimeconfig.cache

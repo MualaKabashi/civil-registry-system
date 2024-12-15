@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sample Projects\\Regjistri-Civil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF529511-7EC9-4B22-8566-EB324C353BF9}|RegjistriCivil\\RegjistriCivil.csproj|d:\\sample projects\\regjistri-civil\\regjistricivil\\views\\administration\\listusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF529511-7EC9-4B22-8566-EB324C353BF9}|RegjistriCivil\\RegjistriCivil.csproj|solutionrelative:regjistricivil\\views\\administration\\listusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF529511-7EC9-4B22-8566-EB324C353BF9}|RegjistriCivil\\RegjistriCivil.csproj|d:\\sample projects\\regjistri-civil\\regjistricivil\\views\\administration\\listroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF529511-7EC9-4B22-8566-EB324C353BF9}|RegjistriCivil\\RegjistriCivil.csproj|solutionrelative:regjistricivil\\views\\administration\\listroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF529511-7EC9-4B22-8566-EB324C353BF9}|RegjistriCivil\\RegjistriCivil.csproj|d:\\sample projects\\regjistri-civil\\regjistricivil\\views\\birthcertificates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF529511-7EC9-4B22-8566-EB324C353BF9}|RegjistriCivil\\RegjistriCivil.csproj|solutionrelative:regjistricivil\\views\\birthcertificates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListUsers.cshtml",
+              "DocumentMoniker": "D:\\Sample Projects\\Regjistri-Civil\\RegjistriCivil\\Views\\Administration\\ListUsers.cshtml",
+              "RelativeDocumentMoniker": "RegjistriCivil\\Views\\Administration\\ListUsers.cshtml",
+              "ToolTip": "D:\\Sample Projects\\Regjistri-Civil\\RegjistriCivil\\Views\\Administration\\ListUsers.cshtml",
+              "RelativeToolTip": "RegjistriCivil\\Views\\Administration\\ListUsers.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:03:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListRoles.cshtml",
+              "DocumentMoniker": "D:\\Sample Projects\\Regjistri-Civil\\RegjistriCivil\\Views\\Administration\\ListRoles.cshtml",
+              "RelativeDocumentMoniker": "RegjistriCivil\\Views\\Administration\\ListRoles.cshtml",
+              "ToolTip": "D:\\Sample Projects\\Regjistri-Civil\\RegjistriCivil\\Views\\Administration\\ListRoles.cshtml",
+              "RelativeToolTip": "RegjistriCivil\\Views\\Administration\\ListRoles.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:02:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sample Projects\\Regjistri-Civil\\RegjistriCivil\\Views\\BirthCertificates\\Index.cshtml",
+              "RelativeDocumentMoniker": "RegjistriCivil\\Views\\BirthCertificates\\Index.cshtml",
+              "ToolTip": "D:\\Sample Projects\\Regjistri-Civil\\RegjistriCivil\\Views\\BirthCertificates\\Index.cshtml",
+              "RelativeToolTip": "RegjistriCivil\\Views\\BirthCertificates\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:00:44.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

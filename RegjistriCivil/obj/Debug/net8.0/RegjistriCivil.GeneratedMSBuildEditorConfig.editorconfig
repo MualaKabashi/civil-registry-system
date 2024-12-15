@@ -1,0 +1,199 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RegjistriCivil
+build_property.RootNamespace = RegjistriCivil
+build_property.ProjectDir = D:\Regjistri-Civil\RegjistriCivil\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Regjistri-Civil\RegjistriCivil
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/EditUsersInRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cRWRpdFVzZXJzSW5Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/ListRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cTGlzdFJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/ListUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cTGlzdFVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/ManageUserRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cTWFuYWdlVXNlclJvbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Administration/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRpb25cUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/BirthCertificates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlydGhDZXJ0aWZpY2F0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/BirthCertificates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlydGhDZXJ0aWZpY2F0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/BirthCertificates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlydGhDZXJ0aWZpY2F0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/BirthCertificates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlydGhDZXJ0aWZpY2F0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/BirthCertificates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlydGhDZXJ0aWZpY2F0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/DeathCertificates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhdGhDZXJ0aWZpY2F0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/DeathCertificates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhdGhDZXJ0aWZpY2F0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/DeathCertificates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhdGhDZXJ0aWZpY2F0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/DeathCertificates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhdGhDZXJ0aWZpY2F0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/DeathCertificates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVhdGhDZXJ0aWZpY2F0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/IdCards/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRDYXJkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/IdCards/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRDYXJkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/IdCards/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRDYXJkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/IdCards/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRDYXJkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/IdCards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWRDYXJkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/MarriageCertificates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycmlhZ2VDZXJ0aWZpY2F0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/MarriageCertificates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycmlhZ2VDZXJ0aWZpY2F0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/MarriageCertificates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycmlhZ2VDZXJ0aWZpY2F0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/MarriageCertificates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycmlhZ2VDZXJ0aWZpY2F0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/MarriageCertificates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycmlhZ2VDZXJ0aWZpY2F0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Passports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Passports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Passports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Passports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Passports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzc3BvcnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Regjistri-Civil/RegjistriCivil/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\images\\denied.jpg",
+      "PackagePath": "staticwebassets\\images\\denied.jpg"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.material.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.material.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.material.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.material.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.uikit.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.uikit.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\dataTables.uikit.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.uikit.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\css\\jquery.dataTables_themeroller.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.dataTables_themeroller.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.material.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.material.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.material.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.material.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.uikit.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.uikit.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\dataTables.uikit.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.uikit.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\datatables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Regjistri-Civil\\RegjistriCivil\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RegjistriCivil.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RegjistriCivil.props",
+      "PackagePath": "build\\RegjistriCivil.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RegjistriCivil.props",
+      "PackagePath": "buildMultiTargeting\\RegjistriCivil.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RegjistriCivil.props",
+      "PackagePath": "buildTransitive\\RegjistriCivil.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
